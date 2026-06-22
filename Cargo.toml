@@ -111,7 +111,7 @@ biome_yaml_syntax            = { path = "./crates/biome_yaml_syntax", version = 
 boa_engine                   = "0.21.1"
 boxcar                       = "0.2.14"
 bpaf                         = { version = "0.9.26", features = ["derive"] }
-camino                       = "1.2.2"
+camino                       = "1.2.3"
 cfg-if                       = "1.0.4"
 countme                      = "3.0.1"
 crossbeam                    = "0.8.4"
